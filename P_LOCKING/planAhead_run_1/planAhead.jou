@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Fri May 18 04:12:02 2018
+# Process ID: 13304
+# Log file: F:/Users/sed7/Desktop/P_LOCKING/planAhead_run_1/planAhead.log
+# Journal file: F:/Users/sed7/Desktop/P_LOCKING/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source F:/Users/sed7/Desktop/P_LOCKING/pa.fromHdl.tcl
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
